@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20.0)
+project(src)
+add_subdirectory(login)
+add_subdirectory(MedClass)
+# target_link_directories(src login medClass)
+# target_link_directories(src login medclass)
