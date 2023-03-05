@@ -1,4 +1,4 @@
-#include "MedClass.h"
+#include "include/MedClass.h"
 
 
 std::string Medicine::getFileName()
